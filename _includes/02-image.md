@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![turkish van cat](https://upload.wikimedia.org/wikipedia/commons/4/46/Turkish_Van_Example.jpg)
